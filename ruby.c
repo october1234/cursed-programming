@@ -4,6 +4,6 @@
 #include <stdio.h>
 
 int main() do
-    puts("Hello world");
+    puts("Hello world!");
     return 0;
 end
